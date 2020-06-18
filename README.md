@@ -2,7 +2,7 @@
 
 These natural language models are the models provided with ATLAS.ti
 
-##Geting started
+## Geting started
 The models are built using spaCy which is free: www.spacy.io
 spaCy needs python
 
