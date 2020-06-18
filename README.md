@@ -7,7 +7,7 @@ The models are built using spaCy which is free: www.spacy.io
 
 spaCy needs python
 
-You need to unzip the file an then pass the read data to a method like this:
+You need to unzip the file and then pass the read data to a method like this:
 ```
 DATA_KEY = "data"
 LANG_KEY = "lang"
