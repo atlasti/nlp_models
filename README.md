@@ -4,6 +4,7 @@ These natural language models are the models provided with ATLAS.ti
 
 ## Geting started
 The models are built using spaCy which is free: www.spacy.io
+
 spaCy needs python
 
 You need to unzip the file an then pass the read data to a method like this:
