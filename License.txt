@@ -1,0 +1,16 @@
+The Portuguese Model:
+The original work 
+is licensed under CC-BY-SA 4.0
+Copyright Explosion AI GmbH
+and can be obtained here: https://spacy.io/models/
+The work including contributions which is available here
+is licensed under CC-BY-SA 4.0 - changes were made
+Copyright ATLAS.ti GmbH 2019-2020
+
+
+The Spanish Model:
+is licensed under CC-BY-SA 4.0
+Copyright ATLAS.ti GmbH 2019-2020
+The Spanish model was built using the UD Spanish GSD
+CC-BY-SA 4.0 - no changes were made
+© 2014–2020 Universal Dependencies contributors
