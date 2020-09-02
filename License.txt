@@ -1,0 +1,3 @@
+Copyright Explosion Explosion AI GmbH
+Copyright ATLAS.ti GmbH 2019-2020
+Licensed under CC-BY-SA-4.0
